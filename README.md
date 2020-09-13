@@ -1,0 +1,1 @@
+This is devGeorgeOwi first odin project
